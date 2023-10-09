@@ -51,3 +51,12 @@ section article {
                 } 
                 
 figure img { max-width: 100%;}                 
+
+
+/*introducao de uma media querie para os telemoveis*/
+
+@media (max-width: 640px) {
+    section article {width: 100%;}
+    
+}
+
